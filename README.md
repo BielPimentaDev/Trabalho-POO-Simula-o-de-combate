@@ -99,6 +99,16 @@ mvn test
 
 ---
 
+---
+
+### 4. Testes Manuais - Simulação de Combate
+Este documento detalha os processos de QA do sistema.
+
+
+ Documento completo: [`Acesse os Testes Manuais aqui`](https://docs.google.com/document/d/1kNf6tNtkxJ-7kMwsXe0t5jLLEZdVhzWCr9jAtzic4jI/edit?tab=t.0#heading=h.to8swo4m7y83)
+
+---
+
 ## Estrutura do Repositorio
 
 ```
